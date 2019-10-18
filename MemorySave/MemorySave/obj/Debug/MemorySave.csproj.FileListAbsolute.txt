@@ -1,0 +1,15 @@
+C:\Project\MemoryGame\MemorySave\MemorySave\obj\Debug\MemorySave.csprojAssemblyReference.cache
+C:\Project\MemoryGame\MemorySave\MemorySave\obj\Debug\MainWindow.g.cs
+C:\Project\MemoryGame\MemorySave\MemorySave\obj\Debug\App.g.cs
+C:\Project\MemoryGame\MemorySave\MemorySave\obj\Debug\MemorySave_MarkupCompile.cache
+C:\Project\MemoryGame\MemorySave\MemorySave\obj\Debug\MemorySave_MarkupCompile.lref
+C:\Project\MemoryGame\MemorySave\MemorySave\bin\Debug\MemorySave.exe.config
+C:\Project\MemoryGame\MemorySave\MemorySave\bin\Debug\MemorySave.exe
+C:\Project\MemoryGame\MemorySave\MemorySave\bin\Debug\MemorySave.pdb
+C:\Project\MemoryGame\MemorySave\MemorySave\obj\Debug\MainWindow.baml
+C:\Project\MemoryGame\MemorySave\MemorySave\obj\Debug\MemorySave.g.resources
+C:\Project\MemoryGame\MemorySave\MemorySave\obj\Debug\MemorySave.Properties.Resources.resources
+C:\Project\MemoryGame\MemorySave\MemorySave\obj\Debug\MemorySave.csproj.GenerateResource.cache
+C:\Project\MemoryGame\MemorySave\MemorySave\obj\Debug\MemorySave.csproj.CoreCompileInputs.cache
+C:\Project\MemoryGame\MemorySave\MemorySave\obj\Debug\MemorySave.exe
+C:\Project\MemoryGame\MemorySave\MemorySave\obj\Debug\MemorySave.pdb
