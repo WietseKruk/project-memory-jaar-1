@@ -1,0 +1,30 @@
+C:\Users\Wietse\Desktop\week3 C#\MemoryNameInput\MemoryNameInput\bin\Debug\MemoryNameInput.exe.config
+C:\Users\Wietse\Desktop\week3 C#\MemoryNameInput\MemoryNameInput\bin\Debug\MemoryNameInput.exe
+C:\Users\Wietse\Desktop\week3 C#\MemoryNameInput\MemoryNameInput\bin\Debug\MemoryNameInput.pdb
+C:\Users\Wietse\Desktop\week3 C#\MemoryNameInput\MemoryNameInput\obj\Debug\MemoryNameInput.csprojAssemblyReference.cache
+C:\Users\Wietse\Desktop\week3 C#\MemoryNameInput\MemoryNameInput\obj\Debug\MainWindow.g.cs
+C:\Users\Wietse\Desktop\week3 C#\MemoryNameInput\MemoryNameInput\obj\Debug\App.g.cs
+C:\Users\Wietse\Desktop\week3 C#\MemoryNameInput\MemoryNameInput\obj\Debug\MemoryNameInput_MarkupCompile.cache
+C:\Users\Wietse\Desktop\week3 C#\MemoryNameInput\MemoryNameInput\obj\Debug\MemoryNameInput_MarkupCompile.lref
+C:\Users\Wietse\Desktop\week3 C#\MemoryNameInput\MemoryNameInput\obj\Debug\MainWindow.baml
+C:\Users\Wietse\Desktop\week3 C#\MemoryNameInput\MemoryNameInput\obj\Debug\MemoryNameInput.g.resources
+C:\Users\Wietse\Desktop\week3 C#\MemoryNameInput\MemoryNameInput\obj\Debug\MemoryNameInput.Properties.Resources.resources
+C:\Users\Wietse\Desktop\week3 C#\MemoryNameInput\MemoryNameInput\obj\Debug\MemoryNameInput.csproj.GenerateResource.cache
+C:\Users\Wietse\Desktop\week3 C#\MemoryNameInput\MemoryNameInput\obj\Debug\MemoryNameInput.csproj.CoreCompileInputs.cache
+C:\Users\Wietse\Desktop\week3 C#\MemoryNameInput\MemoryNameInput\obj\Debug\MemoryNameInput.exe
+C:\Users\Wietse\Desktop\week3 C#\MemoryNameInput\MemoryNameInput\obj\Debug\MemoryNameInput.pdb
+C:\Project\memory\MemoryNameInput\MemoryNameInput\bin\Debug\MemoryNameInput.exe.config
+C:\Project\memory\MemoryNameInput\MemoryNameInput\bin\Debug\MemoryNameInput.exe
+C:\Project\memory\MemoryNameInput\MemoryNameInput\bin\Debug\MemoryNameInput.pdb
+C:\Project\memory\MemoryNameInput\MemoryNameInput\obj\Debug\MemoryNameInput.csprojAssemblyReference.cache
+C:\Project\memory\MemoryNameInput\MemoryNameInput\obj\Debug\MainWindow.g.cs
+C:\Project\memory\MemoryNameInput\MemoryNameInput\obj\Debug\App.g.cs
+C:\Project\memory\MemoryNameInput\MemoryNameInput\obj\Debug\MemoryNameInput_MarkupCompile.cache
+C:\Project\memory\MemoryNameInput\MemoryNameInput\obj\Debug\MemoryNameInput_MarkupCompile.lref
+C:\Project\memory\MemoryNameInput\MemoryNameInput\obj\Debug\MainWindow.baml
+C:\Project\memory\MemoryNameInput\MemoryNameInput\obj\Debug\MemoryNameInput.g.resources
+C:\Project\memory\MemoryNameInput\MemoryNameInput\obj\Debug\MemoryNameInput.Properties.Resources.resources
+C:\Project\memory\MemoryNameInput\MemoryNameInput\obj\Debug\MemoryNameInput.csproj.GenerateResource.cache
+C:\Project\memory\MemoryNameInput\MemoryNameInput\obj\Debug\MemoryNameInput.csproj.CoreCompileInputs.cache
+C:\Project\memory\MemoryNameInput\MemoryNameInput\obj\Debug\MemoryNameInput.exe
+C:\Project\memory\MemoryNameInput\MemoryNameInput\obj\Debug\MemoryNameInput.pdb

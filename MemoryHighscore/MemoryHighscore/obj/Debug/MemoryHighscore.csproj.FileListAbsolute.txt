@@ -1,0 +1,15 @@
+C:\Project\memory\MemoryHighscore\MemoryHighscore\obj\Debug\MemoryHighscore.csprojAssemblyReference.cache
+C:\Project\memory\MemoryHighscore\MemoryHighscore\obj\Debug\MainWindow.g.cs
+C:\Project\memory\MemoryHighscore\MemoryHighscore\obj\Debug\App.g.cs
+C:\Project\memory\MemoryHighscore\MemoryHighscore\obj\Debug\MemoryHighscore_MarkupCompile.cache
+C:\Project\memory\MemoryHighscore\MemoryHighscore\obj\Debug\MemoryHighscore_MarkupCompile.lref
+C:\Project\memory\MemoryHighscore\MemoryHighscore\bin\Debug\MemoryHighscore.exe.config
+C:\Project\memory\MemoryHighscore\MemoryHighscore\bin\Debug\MemoryHighscore.exe
+C:\Project\memory\MemoryHighscore\MemoryHighscore\bin\Debug\MemoryHighscore.pdb
+C:\Project\memory\MemoryHighscore\MemoryHighscore\obj\Debug\MainWindow.baml
+C:\Project\memory\MemoryHighscore\MemoryHighscore\obj\Debug\MemoryHighscore.g.resources
+C:\Project\memory\MemoryHighscore\MemoryHighscore\obj\Debug\MemoryHighscore.Properties.Resources.resources
+C:\Project\memory\MemoryHighscore\MemoryHighscore\obj\Debug\MemoryHighscore.csproj.GenerateResource.cache
+C:\Project\memory\MemoryHighscore\MemoryHighscore\obj\Debug\MemoryHighscore.csproj.CoreCompileInputs.cache
+C:\Project\memory\MemoryHighscore\MemoryHighscore\obj\Debug\MemoryHighscore.exe
+C:\Project\memory\MemoryHighscore\MemoryHighscore\obj\Debug\MemoryHighscore.pdb
