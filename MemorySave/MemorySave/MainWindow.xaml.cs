@@ -38,7 +38,7 @@ namespace MemorySave
             if (string.IsNullOrEmpty(chosenFileName))
             {
                 SaveFileDialog saveFile = new SaveFileDialog();
-                saveFile.Filter = "XAML Files (*.xaml)|*.xaml|RichText Files (*.rtf)|*.rtf|All Files (*.*)|*.*";
+                saveFile.Filter = "SAV Files (*.sav)|*.sav|RichText Files (*.rtf)|*.rtf|All Files (*.*)|*.*";
                 if (saveFile.ShowDialog() != true)
                     return;
 
